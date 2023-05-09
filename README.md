@@ -18,7 +18,7 @@ Example of work:
 
 - Android app
 
-![Ademanos App](https://github.com/Mrjojosa/Mrjojosa/blob/main/Assets/ademanosLoginApp.png)
+![Ademanos App height='400'>](https://github.com/Mrjojosa/Mrjojosa/blob/main/Assets/ademanosLoginApp.png)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mrjojosa)              [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://linkedin.com/in/francisco-joven)    
