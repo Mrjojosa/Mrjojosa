@@ -17,7 +17,7 @@ Example of work:
 ![UnSim](https://github.com/Mrjojosa/Mrjojosa/blob/main/Assets/189465703-1e598e76-0b7c-4376-a787-76be9498d069.gif)
 
 - Android app
-- 
+
 ![AnApp](https://github.com/Mrjojosa/Mrjojosa/blob/main/Assets/ademanosLoginApp.png")
 
 
