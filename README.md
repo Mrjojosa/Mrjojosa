@@ -1,5 +1,4 @@
 ### Francisco Joven
-[![GitHub followers](https://img.shields.io/github/followers/ashleymavericks?label=Follow&style=social)](https://github.com/Mrjojosa)
 
 ## Hey there people 
 
