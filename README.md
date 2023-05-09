@@ -28,8 +28,8 @@ I am Francisco from México🌮, currently I'm on my sixth semester of studyng a
 ##EXPERIENCE
 Most comes from school projects tasked by companies:
 - Front end dev(Angular)
-- Unity simulation
-- Unity interface
+- Simple robot's simulation(Unity)
+- Tracking system's graphics(Unity)
 - Android app dev(Kotlin)
 
 Example of work:
