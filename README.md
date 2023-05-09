@@ -14,11 +14,10 @@ I am Francisco from México🌮, currently I'm on my sixth semester of studyng a
 Example of work:
 - Unity simulation
 
-<img source="https://github.com/Mrjojosa/Mrjojosa/blob/main/Assets/189465703-1e598e76-0b7c-4376-a787-76be9498d069.gif">
+![UnSim](https://github.com/Mrjojosa/Mrjojosa/blob/main/Assets/189465703-1e598e76-0b7c-4376-a787-76be9498d069.gif)
 
 - Android app
-
-<img source="https://github.com/Mrjojosa/Mrjojosa/blob/main/Assets/ademanosLoginApp.png">
+[AnApp](https://github.com/Mrjojosa/Mrjojosa/blob/main/Assets/ademanosLoginApp.png")
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mrjojosa)              [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://linkedin.com/in/francisco-joven)    
