@@ -2,9 +2,8 @@
 
 ## Hey there people 
 
-I am Francisco from México🌮, currently I'm on my sixth semester of studyng as a software engenireer at the Tec de Monterrey. 
+I am Francisco from México🌮, currently I'm on my sixth semester of studyng as a software engenireer at the Tec de Monterrey. Right now I'm learning how to develop a machine learning system
 
-- 🌱 I’m currently learning how to develop a machine learning system
 - 👯 I’m looking to collaborate on open source projects
 - ⚡ Fun fact: I´m a top ranked Legends of Runeterra player on the american server
 
