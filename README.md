@@ -25,5 +25,5 @@ Example of work:
 
 ![WebPage](https://github.com/Mrjojosa/Mrjojosa/blob/main/Assets/pagWebInitReact.png)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mrjojosa)              [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://linkedin.com/in/francisco-joven)    
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mrjojosa)              [<img src='https://github.com/Mrjojosa/Mrjojosa/blob/main/Assets/linkedinIcon.png' alt='linkedin' height='40'>](https://linkedin.com/in/francisco-joven)    
 
