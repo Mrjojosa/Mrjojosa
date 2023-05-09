@@ -10,6 +10,7 @@ I am Francisco from México🌮, currently I'm on my sixth semester of studyng a
 | English | Python | JS | Self awareness | Simple robot's simulation(Unity) |
 | | C#(Unity) | React | Analytical | Tracking system's graphics(Unity) |
 | | | Angular | Patience | Android app dev(Kotlin) |
+| | | SQL | | |
 
 Example of work:
 - Unity simulation
