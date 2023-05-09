@@ -34,6 +34,7 @@ Most comes from school projects tasked by companies:
 
 Example of work:
 - Unity simulation
+
 ![Bots moving boxes](https://user-images.githubusercontent.com/88664775/189465703-1e598e76-0b7c-4376-a787-76be9498d069.gif)
 
 
