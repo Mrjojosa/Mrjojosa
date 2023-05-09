@@ -5,10 +5,11 @@
 I am Francisco from México🌮, currently I'm on my sixth semester of studyng as a software engenireer at the Tec de Monterrey. Right now I'm learning how to develop a machine learning system. I'm like videogames and I'm top ranked Legends of Runeterra player on the american server
 
 | LANGUAGES |MAJOR SKILLS | MINOR SKILLS | SOFT SKILLS | EXPERIENCE |
+|---|---|---|---|---|
 | Spanish | C++ | Kotlin | Logical and problem solving thinking | Front end dev(Angular) |
 | English | Python | JS | Self awareness | Simple robot's simulation(Unity) |
-| --- | C#(Unity) | React | Analytical | Tracking system's graphics(Unity) |
-| --- | --- | Angular | Patience | Android app dev(Kotlin) |
+| | C#(Unity) | React | Analytical | Tracking system's graphics(Unity) |
+| | | Angular | Patience | Android app dev(Kotlin) |
 
 Example of work:
 - Unity simulation
