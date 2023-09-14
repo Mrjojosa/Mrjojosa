@@ -2,7 +2,7 @@
 
 ### Hey there people !<img src="https://github.com/Mrjojosa/Mrjojosa/blob/main/Assets/wave.gif"  width = 30px> 
 
-I am Francisco from México🌮, currently I'm on my sixth semester of studyng as a software engenireer at the Tec de Monterrey. Right now I'm learning how to develop a machine learning system. Aside from the all the classes of diverse programming topics, I've completed a couple courses regarding unity and ethical hacking. I like videogames and I'm top ranked Legends of Runeterra player on the american server.
+I am Francisco from México🌮, currently I'm on my seventh semester of studyng as a software engenireer at the Tec de Monterrey. Right now I'm learning how to develop a machine learning system. Aside from the all the classes of diverse programming topics, I've completed a couple courses regarding unity and ethical hacking. I like videogames and I'm top ranked Legends of Runeterra player on the american server.
 
 | LANGUAGES |MAJOR SKILLS | MINOR SKILLS | SOFT SKILLS | EXPERIENCE |
 |---|---|---|---|---|
